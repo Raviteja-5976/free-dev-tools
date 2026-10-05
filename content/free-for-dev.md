@@ -581,6 +581,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Sherlo](https://sherlo.io) - Visual regression testing for React Native apps. Free plan: 1,000 snapshots/month, iOS & Android simulators.
   * [snippets.uilicious.com](https://snippets.uilicious.com) - It's like CodePen but for cross-browser testing. UI-licious lets you write tests like user stories and offers a free platform - UI-licious Snippets - that allows you to run unlimited tests on Chrome with no sign-up required for up to 3 minutes per test run. Found a bug? You can copy the unique URL to your test to show your devs exactly how to reproduce the bug.
   * [SSR (Server-side Rendering) Checker](https://www.crawlably.com/ssr-checker/) - Check SSR (server-side rendering) for any URL by visually comparing the server rendered version of the page with the regular version.
+  * [stateofpixel](https://stateofpixel.com) - Catch UI regressions before they merge. Your CI takes the screenshots with Playwright, Storybook or any tool that writes PNGs, and a person approves each change on the pull request. Open source and self-hostable. Free up to 10 GB.
   * [testingbot.com](https://testingbot.com/) - Selenium Browser and Device Testing, [free for Open Source](https://testingbot.com/open-source)
   * [Testspace.com](https://testspace.com/) - A Dashboard for publishing automated test results and a Framework for implementing manual tests as code using GitHub. The service is [free for Open Source](https://github.com/marketplace/testspace-com) and accounts for 450 monthly results.
   * [tesults.com](https://www.tesults.com) - Test results reporting and test case management. Integrates with popular test frameworks. Open Source software developers, individuals, educators, and small teams getting started can request discounted and free offerings beyond basic free projects.
@@ -702,7 +703,6 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [courier.com](https://www.courier.com/) - Single API for push, in-app, email, chat, SMS, and other messaging channels with template management and other features. The free plan includes 10,000 messages/mo.
   * [EMQX Serverless](https://www.emqx.com/en/cloud/serverless-mqtt) - Scalable and secure serverless MQTT broker you can get in seconds. 1M session minutes/month free forever (no credit card required).
   * [Engage](https://engage.so/) - All-in-one Customer Engagement and Automation Tool (email, push, SMS, product tours, banners and more) for SaaS. Free for up to 1,000 active users per month.
-  * [engagespot.co](https://engagespot.co/) - Multi-channel notification infrastructure for developers with a prebuilt in-app inbox and no-code template editor. Free plan includes 10,000 messages/mo.
   * [HiveMQ](https://www.hivemq.com/mqtt-cloud-broker/) - Connect your MQTT devices to the Cloud Native IoT Messaging Broker.  Free to connect up to 100 devices (no credit card required) forever.
   * [httpSMS](https://httpsms.com) - Send and receive text messages using your Android phone as an SMS Gateway. Free to send and receive up to 200 messages per month.
   * [knock.app](https://knock.app) - Notifications infrastructure for developers. Send to multiple channels like in-app, email, SMS, Slack, and push with a single API call. The free plan includes 10,000 messages/mo.
@@ -827,6 +827,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [CatchJS.com](https://catchjs.com/) - JavaScript error tracking with screenshots and click trails. Free for open-source projects.
   * [elmah.io](https://elmah.io/) - Error logging and uptime monitoring for web developers. Free Small Business subscription for open-source projects.
   * [Embrace](https://embrace.io/) - Mobile app monitoring. Free for small teams with up to 1 million user sessions per year.
+  * [Everframe](https://everframe.dev/) - Everframe is bug tracking, crash collection tool with AI triage, reporter conversations and boards all in one platform - for mobile, web, TV and Roku apps. Free tier includes 1000 monthly active installs with unlimited bug and crash reports, unlimited apps and seats, every SDK and AI triage on 50 reports per month.  
   * [exceptionless](https://exceptionless.com) - Real-time error, feature, log reporting, and more. Free for 3k events per month/1 user. Open source and easy to self-host for unlimited use.
   * [GlitchTip](https://glitchtip.com/) - Simple, open-source error tracking. Compatible with open-source Sentry SDKs. 1000 events per month for free, or can self-host with no limits
   * [honeybadger.io](https://www.honeybadger.io) - Exception, uptime, and cron monitoring. Free for small teams and open-source projects (12,000 errors/month).
@@ -895,6 +896,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [debugmail.io](https://debugmail.io/) - Easy to use testing mail server for developers
   * [dkimvalidator.com](https://dkimvalidator.com/) - Test if the email's DNS/SPF/DKIM/DMARC settings are correct, free service by roundsphere.com
   * [DNSExit](https://dnsexit.com/) - Up to 2 Email addresses under your domain for free with 100MB of storage space. IMAP, POP3, SMTP, SPF/DKIM support.
+  * [DomainCanary](https://domaincanary.com) - DMARC enforcement service that protects your domain from email spoofing. First domain is free with 90 days of report detail and step-by-step policies you publish yourself.
   * [Email Spam Tester](https://email-spam-tester.com/) - Tests the technical part, content, link authority and overall score of your email. Also tests where your email will land: inbox, spam or promotions. Inbox tests on Gmail, GMX, Yahoo, AOL and other email providers. Free to use, no card or registration required. Also works via API and MCP.
   * [EmailGuard](https://emailguard.lazrek.com/) - Block disposable emails, catch typos, and validate MX records via a simple API. 100 free requests/month.
   * [EmailJS](https://www.emailjs.com/) - This is not an entire email server; this is just an email client that you can use to send emails right from the client without exposing your credentials, the free tier has 200 monthly requests, 2 email templates, Requests up to 50Kb, Limited contacts history.
@@ -927,6 +929,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [OneSignal](https://onesignal.com/) - 10,000 emails/month,No Credit Cards are required.
   * [Orbisearch](https://orbisearch.com) - Free bulk email validator, 100 validations per day, no signup required.
   * [Parsio.io](https://parsio.io) - Free email parser (Forward email, extract the data, send it to your server)
+  * [Pharos](https://pharos.email) - Transactional email API and SMTP relay service for developers. 3,000 emails a month free.
   * [Plunk](https://useplunk.com) - 3K emails/month for free
   * [Postmark](https://postmarkapp.com/) - 100 emails/month free, unlimited DMARC weekly digests.
   * [Proton Mail](https://proton.me/mail) -  Free secure email account service provider with built-in end-to-end encryption. Free 1GB storage.
@@ -1100,6 +1103,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Runsite](https://runsite.app/) - European PaaS with automated deployments from GitHub for web services or static sites (1 web 0.1 vCPU/256 MB free), managed PostgreSQL and Valkey(Redis) (30 days for free), Transactional Email (3,000 emails/month free), S3 compatible storage (5 GB/free), all what you need for start your web site. Servers located in Germany.
   * [SnapDeploy](https://snapdeploy.dev/) - Docker containers or GitHub repos, hosted on AWS. Free tier: up to 4 containers, 100 running hours a month, 10 deploys a day. Sleeps after 15 minutes idle and wakes on the next request. No credit card.
   * [Val Town](https://www.val.town) - Collaborative TypeScript/JavaScript serverless platform for scripts, HTTP endpoints, and cron jobs. Free plan includes unlimited public vals, 15-minute cron intervals, 1-minute wall-clock time per run, and 3-day log retention. No custom domains on free.
+  * [velixir](https://velixir.net/) - EU-hosted PaaS that builds web apps from source in any language (Node.js, Python, Go, Ruby, PHP, Java, Elixir, Rust, .NET and more), no Dockerfile needed. The free tier includes one app (0.25 vCPU, 256 MB RAM) that sleeps when idle, custom domains with TLS, and no credit card.
   * [WunderGraph](https://cloud.wundergraph.com) - An open-source platform that allows you to  quickly build, ship and manage modern APIs. Built-in CI/CD, GitHub integration, and automatic HTTPS. Up to 3 projects, 1GB egress, 300 minutes of build time per month on the [free plan](https://wundergraph.com/pricing)
   * [YepCode](https://yepcode.io) - All-in-one platform to connect APIs and services in a serverless environment. It brings all the agility and benefits of NoCode tools but with all the power of using programming languages. The free tier includes [1.000 yeps](https://yepcode.io/pricing/).
 
@@ -1525,6 +1529,7 @@ Update Time, five active automations, webhooks.
   * [Aptabase](https://aptabase.com) - Open Source, Privacy-Friendly, and Simple Analytics for Mobile and Desktop Apps. SDKs for Swift, Kotlin, React Native, Flutter, Electron, and many others. Free for up to 20,000 events per month.
   * [Avo](https://avo.app/) - Simplified analytics release workflow. Single-source-of-truth tracking plan, type-safe analytics tracking library, in-app debuggers, and data observability to catch all data issues before you release. Free for two workspace members and 1 hour data observability lookback.
   * [Beampipe.io](https://beampipe.io) - Beampipe is simple, privacy-focussed web analytics. free for up to 5 domains & 10k monthly page views.
+  * [Cabin](https://withcabin.com) - Privacy-first, cookie-free web analytics with per-page carbon estimates and an MCP server for AI assistants. Free plan: 1 site, 10k pageviews/month.
   * [Census](https://www.getcensus.com/) - Reverse ETL & Operational Analytics Platform. Sync 10 fields from your data warehouse to 60+ SaaS like Salesforce, Zendesk, or Amplitude.
   * [Clicky](https://clicky.com) - Website Analytics Platform. Free Plan for one website with 3000 views analytics.
   * [counter.dev](https://counter.dev) - Web analytics made simple and therefore privacy friendly. Free or pay what you want by donation.
@@ -1719,5 +1724,6 @@ Update Time, five active automations, webhooks.
   * [SimpleBackups.com](https://simplebackups.com/) - Backup automation service for servers and databases (MySQL, PostgreSQL, MongoDB) stored directly into cloud storage providers (AWS, DigitalOcean, and Backblaze). Provides a free plan for 1 backup.
   * [SimpleRestore](https://simplerestore.io) - Hassle-free MySQL backup restoration. Restore MySQL backups to any remote database without code or a server.
   * [SnapShooter](https://snapshooter.com/) - Backup solution for DigitalOcean, AWS, LightSail, Hetzner, and Exoscale, with support for direct database, file system and application backups to s3 based storage. Provides a free plan with daily backups for one resource.
+  * [VPS Snaps](https://vpssnaps.com) - Automated server backups and snapshots across 8 cloud providers, stored in your own bucket or Google Drive. Free plan: 1 server, daily backups, no credit card.
 
 **[⬆️ Back to Top](#table-of-contents)**
